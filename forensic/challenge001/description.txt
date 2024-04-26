@@ -1,0 +1,4 @@
+Challenge 001: Wireshark PCAP Analysis
+
+Uncover hidden treasures in the loops of the localhost. In a realm where packets talk in circles, decode their whispers to reveal the conveted 'flag'. The loop holds the key, but the path may twist, stay vigilant, stay sharp.
+Clue: Follow the echoes of "127.0.0.1", where packets return to themselves. In the loop's shadow, the flag lies. Seek in the mirrored paths for your prize.
